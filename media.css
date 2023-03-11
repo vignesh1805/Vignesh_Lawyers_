@@ -1,0 +1,316 @@
+@media only screen and (max-width:544px) {
+  .main-banner-menu{
+    padding-top: 30px !important;
+    width:100% !important;
+    text-align: center !important;
+    display: block !important;
+  }
+  .continue-application{
+    padding: 10px 93px 17px 69px !important;
+  }
+  .menu-vs-cont{
+    display: block !important;
+    width: 100% !important;
+    margin: 0px 0px 0px 0px !important;
+  }
+  .menu-a a{
+    line-height: 2 !important;
+    padding: 0px 15px 10px 15px !important;
+  }
+  .menu-a{
+    width: 95% !important;
+    margin: 20px auto 10px auto !important;
+  }
+  .con-icon {
+    width: 95% !important;
+    margin: 30px auto !important;
+  }
+  .banner-text-1{
+    margin-top: 10px !important;
+    display: block !important;
+    width: 100% !important;
+  }
+  .banner-child-1{
+    width: 95% !important;
+    margin:0px auto 0px auto !important;
+  }
+  .banner-child-1 h4 {
+    font-weight: 500 !important;
+    font-size: 30px !important;
+    line-height:1.8 !important;
+  }
+  .banner-child-1 h1 {
+    font-weight: 500 !important;
+    font-size: 36px !important;
+    line-height: 1.2 !important;
+  }
+  .banner-child-1 p {
+    font-size:16px !important;
+    line-height: 1.6 !important;
+    margin-bottom: 20px !important;
+    text-align: justify !important;
+    padding-right: 0px !important;
+  }
+  .banner-img {
+    background-image: url(./images/zjhvhjsdgcjudsvksgvcysgru.jpg) !important;
+    height: 1250px !important;
+    background-position: left center  !important;
+  }
+  .banner-child-2{
+    width: 95% !important;
+    margin:65px auto 0px auto!important;
+  }
+  .line-blue {
+    width: 95% !important;
+    margin: 0px auto !important;
+}
+.main-pract {
+  width: 95% !important;
+  margin: 10px auto  !important;
+}
+.prac-area h1{
+  margin-bottom: 0px !important;
+}
+.prac-area p{
+  font-size: 14px !important;
+  text-align: justify !important;
+}
+.prac-area{
+  padding: 0px 0px !important;
+  line-height: 1.5 !important;
+}
+.line-spane-prac{
+  width: 30% !important;
+  margin: 0px auto 15px auto;
+}
+.main-img_slide {
+  width: 95% !important;
+  margin: 50px auto 50px auto !important;
+  display: block !important;
+  text-align: center !important;
+}
+.main-img_slide div{
+  margin: 0px auto 15px auto  !important;
+  width: 100% !important;
+}
+.color-back-fea {
+  width: 100% !important;
+  margin:  10px auto  !important;
+  padding-bottom: 40px !important;
+
+}
+.main-feature, .main-about_us{
+  width: 95% !important;
+  margin: 0px auto !important;
+}
+.main-feature p, .about_us p{
+  width: 95% !important;
+font-size: 16px !important;
+margin: 10px auto 20px auto !important;
+text-align: justify !important;
+
+}
+.Amazing_main{
+  display: block !important;
+  width: 95% !important;
+  margin: 0px auto !important;
+}
+.amazing-img{
+  width: 100% !important;
+  margin: 0px !important;
+}
+.amazing-img img{
+  width: 100% !important;
+  margin: 0px auto 15px auto !important;
+}
+.section-ama-2 {
+  width:95% !important;
+  margin: 0px auto;
+}
+.john_layer span {
+  padding: 8px 8px 8px 7px !important;
+  margin: 10px 5px 10px 5px !important;
+}
+.single-dev p{
+  text-align: justify !important;
+  /* word-spacing: 2.2px !important; */
+  font-size: 15px !important;
+}
+.single-dev{
+  display: flex !important;
+  align-items: center !important;
+}
+.about-h3_head p{
+  font-size: 19px !important;
+}
+.para-ama, .about-h3_head p{
+  text-align: justify !important;
+}
+.line-abou_us{
+  width: 30% !important;
+  margin: 0px auto 15px auto !important;
+}
+.about-widht-1{
+  width: 100% !important;
+  margin: 0px auto !important;
+}
+#grid-about_{
+  width: 100% !important;
+  margin: 0px auto !important;
+  display: block !important;
+}
+.round-text- h4{
+  margin:15px 0px 15px 0px !important;
+}
+.round-text-{
+  margin: 15px auto 0px auto !important;
+  width: 95% !important;
+  display: block !important;
+}
+.circle-about-1{
+  width: 32% !important; 
+}
+.about-widht-2{
+  width: 100% !important;
+  margin: 0px auto;
+}
+.about-widht-2 img{
+  width: 100% !important;
+  margin: 10px auto;
+}
+.watch-main{
+  width: 100% !important;
+}
+.watch-our-video{
+  width:95% !important;
+  margin: 0px auto !important;
+}
+.watch-our-video p{
+  width:95% !important;
+  margin: 0px auto !important;
+  text-align: justify !important;
+}
+.bhime iframe{
+  margin-top: 20px !important;
+  width: 95% !important;
+  margin: 0px auto;
+}
+.bhime{
+  width: 95% !important;
+  margin: 0px auto !important;
+}
+.color-lawyer{
+  width: 100% !important;
+  margin: 0px auto !important;
+}
+.lawyers_ p{
+  width: 100% !important;
+  margin: 0px auto !important;
+  text-align: justify !important;
+}
+.layers_width-{
+  width: 95% !important;
+  margin: 0px auto !important;
+}
+.layer-grid{
+  display: block !important;
+  width: 100% !important;
+}
+.john_layer{
+  margin-bottom: 10px !important;
+}
+.color-icon_1{
+ width: 100% !important;
+}
+.Icon_grid{
+display: grid !important;
+grid-template-columns: 25% 25% 25% 25% !important;
+width: 100% !important;
+}
+
+.Icon_grid h1 {
+  font-size: 22px !important;
+  margin:0px 0px 10px 0px !important;
+}
+.Icon_grid i{
+  font-size: 34px !important;
+  margin:15px 0px 10px 0px !important;
+}
+.Icon_grid p{
+  font-size: 14px !important;
+  margin:0px 0px 15px 0px !important;
+}
+.Clint_Our, ._pack-width, .colo_uR{
+  width: 100% !important;
+}
+.G_et-Free{
+  width: 95% !important;
+  margin:0px auto ;
+}
+.Clint_Our h1, ._pack-width h1, .G_et-Free h1{
+  width: 95% !important;
+  margin: 0px auto 10px auto !important;
+}
+.para_marlin- p, ._pack-width p, .G_et-Free p{
+  width: 95% !important;
+  margin: 15px auto !important;
+  text-align: justify !important;
+}
+.G_et-Free h1{
+  margin-bottom: 10px !important;
+}
+.card-grid_{
+  display: block !important;
+  width: 100% !important;
+}
+.card-grid_ div{
+  width: 95% !important;
+  margin: 0px auto 50px auto !important;
+
+}
+.card-grid_ button{
+  width: 100% !important;
+}
+.A_ddre-s_grid{
+  display: block !important;
+  width: 100% !important;
+
+}
+.A_ddre-s_grid div{
+  width: 100% !important;
+  margin: 0px auto !important;
+  margin-bottom: 20px !important;
+}
+.Address-1 span{
+  text-align: justify !important;
+}
+.Address-2, .Address-3{
+  padding:24px 100px 20px 20px !important;
+  line-height: 1.4;
+}
+.Address-1, .Address-2, .Address-3{
+  align-items: center !important;
+  display: grid !important;
+  grid-template-columns: auto auto !important;
+  width: 100% !important;
+}
+.map_{
+  padding-right: 0px !important;
+  left:15px  !important;
+  top: 20px !important;  
+  width: 91% !important; 
+  margin: 0px auto !important;
+} 
+.map_ button{
+  margin-left:200px !important;
+  margin-top:0px !important;
+}
+.loader {
+  margin: 0px 0px 0px 0px  !important;
+}
+.circle-about-1{
+  padding: 0px !important;
+  margin: 0px auto !important;
+}
+
+}
